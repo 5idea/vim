@@ -1,4 +1,8 @@
 # my vim config
+git --hlep
+insert k.png
+
+使用命令`git --help`查看
 <img src='k.png'>
 ```text
 	用法：git [--version] [--help] [-c name=value]
