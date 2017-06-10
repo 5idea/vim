@@ -1,4 +1,5 @@
 # my vim config
+<img src='k.png'>
 ```text
 	用法：git [--version] [--help] [-c name=value]
 		   [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
