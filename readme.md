@@ -1,5 +1,27 @@
 # my git study 
 
+* git
+* 字符集及编码标准
+* 日期和时间表示，及标准
+* 字节其换算，及标准表示
+* 数据结构
+* 算法分析
+* 设计模式
+* bash
+* coreutiles命令列表
+*
+*
+*
+*
+*
+*
+三个快捷键的区别
+Ctrl + C To terminate（终止进程）
+Ctrl + D signals EOF（文件结束符）
+Ctrl + Z suppends a program（暂停一个进程）
+
+
+
 使用命令`git --help`查看
 	用法：git [--version] [--help] [-c name=value]
 		   [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
