@@ -12,6 +12,7 @@
 * 算法分析
 * 设计模式
 *
+<<<<<<< HEAD
 ## tmux
 trl+b	激活控制台；此时以下按键生效
 系统操作	?	列出所有快捷键；按q返回
@@ -61,6 +62,17 @@ Ctrl+o	顺时针旋转当前窗口的面板
 	频繁地使用参数相同的某个命令,创建一个别名：
 	alias ls=’ls -l’
 	unalias ls ls删除别名
+=======
+*
+*
+*
+三个快捷键的区别
+Ctrl + C To terminate（终止进程）
+Ctrl + D signals EOF（文件结束符）
+Ctrl + Z suppends a program（暂停一个进程）
+shift + ctrl +alt + R 记录视频
+
+>>>>>>> 3438d24d0cd32bb8f8da614424c30dbb7e02eee9
 
 
 	Ctrl + C To terminate（终止进程）
