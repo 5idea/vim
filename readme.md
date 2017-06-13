@@ -19,6 +19,9 @@
 Ctrl + C To terminate（终止进程）
 Ctrl + D signals EOF（文件结束符）
 Ctrl + Z suppends a program（暂停一个进程）
+shift + ctrl +alt + R 记录视频
+
+
 
 
 
