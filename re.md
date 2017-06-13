@@ -1,4 +1,3 @@
-# my vim config
 
 ## 查看版本
 > vim --version
