@@ -79,12 +79,14 @@ bash
 
 ```bash
 	alias ls=’ls -l’
-	unalias ls ls删除别名
+	unalias ls 
 ```
 
-## git
+git
+----------------------------------------------------------------------------
 
 使用命令`git --help`查看
+
 	用法：git [--version] [--help] [-c name=value]
 		   [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
 		   [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]
@@ -116,6 +118,7 @@ bash
 
 	命令 'git help -a' 和 'git help -g' 显示可用的子命令和一些指南。参见
 	'git help <命令>' 或 'git help <指南>' 来查看给定的子命令帮助或指南。
+
 
 查看配置选项`git config`
 
