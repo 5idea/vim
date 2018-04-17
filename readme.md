@@ -349,7 +349,9 @@ ps aux
 	root        12  0.0  0.0      0     0 ?        S    6月06   0:01 [migration/1]
 	root        13  0.0  0.0      0     0 ?        S    6月06   0:31 [ksoftirqd/1]
 	root        15  0.0  0.0      0     0 ?        S<   6月06   0:00 [kworker/1:0H]
-
+##  net
+netstat -ano |grep php
+unix  2      [ ACC ]     流        LISTENING     2522288  /run/php/php7.0-fpm.sock
 
 ## yum 帮助
 yum --help
