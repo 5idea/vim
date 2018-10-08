@@ -1,5 +1,10 @@
 # study 
 
+export HISTTIMEFORMAT="%F %T `whoami` "
+通过设置环境变量 export HISTTIMEFORMAT="%F %T `whoami` " 给history加上时间戳
+echo 'export HISTTIMEFORMAT="%F %T `whoami` "' >> /etc/profile 然后source一下
+
+
 * bash
 * git
 * coreutiles命令列表
